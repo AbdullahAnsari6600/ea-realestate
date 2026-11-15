@@ -1,0 +1,82 @@
+{
+  "nav": { "home": "Accueil", "about": "À propos", "services": "Nos services", "properties": "Propriétés", "investment": "Investissement", "whyDubai": "Pourquoi Dubaï ?", "careers": "Carrières", "contact": "Contact", "faq": "FAQ", "book": "Réserver une visite", "menu": "Menu" },
+  "common": { "learnMore": "En savoir plus", "viewDetails": "Voir les détails", "viewAll": "Voir toutes les propriétés", "enquire": "Demander", "submit": "Envoyer", "sending": "Envoi…", "from": "À partir de", "beds": "Ch.", "baths": "SdB", "sqft": "pi²", "all": "Tous", "required": "Ce champ est obligatoire", "invalidEmail": "Saisissez un e-mail valide", "invalidPhone": "Saisissez un numéro valide", "success": "Merci — un conseiller senior vous contactera sous un jour ouvré.", "whatsapp": "Discuter sur WhatsApp", "back": "Retour aux propriétés", "gallery": "Galerie", "video": "Aperçu vidéo", "noResults": "Aucune propriété ne correspond. Élargissez vos critères." },
+  "hero": { "eyebrow": "Dubaï · Depuis 2009", "title": "L'immobilier d'exception à Dubaï, approuvé par des experts", "subtitle": "Un groupe établi de conseil immobilier et financier, guidant acheteurs, investisseurs et locataires internationaux vers les adresses les plus prisées de Dubaï.", "cta1": "Découvrir les biens", "cta2": "Réserver une visite privée" },
+  "search": { "intent": "Je souhaite", "buy": "Acheter", "rent": "Louer", "location": "Quartier", "type": "Type de bien", "budget": "Budget max (AED)", "any": "Tous", "button": "Rechercher" },
+  "intro": { "eyebrow": "Early Approve Real Estate Group™", "title": "Quinze ans de conseil de confiance dans l'immobilier à Dubaï", "body": "Nous associons une connaissance approfondie du marché à une expertise financière interne — de la pré-approbation hypothécaire à la structuration de portefeuille — pour que chaque client avance avec clarté et confiance. Nos relations de longue date avec les principaux promoteurs, banques et partenaires juridiques offrent à nos clients un accès privilégié et des transactions fluides.", "stat1": "Ans à Dubaï", "stat2": "AED de transactions", "stat3": "Nationalités clientes", "stat4": "Promoteurs et banques partenaires" },
+  "featured": { "eyebrow": "Sélection", "title": "Propriétés à la une" },
+  "services": {
+    "eyebrow": "Nos métiers", "title": "Services immobiliers et financiers complets",
+    "items": [
+      { "title": "Vente immobilière", "body": "Représentation discrète des acheteurs et vendeurs dans les quartiers prestigieux de Dubaï." },
+      { "title": "Conseil hypothécaire", "body": "Pré-approbations rapides et taux compétitifs grâce à nos banques partenaires." },
+      { "title": "Stratégie d'investissement", "body": "Planification de portefeuille pour le rendement, la plus-value et le Golden Visa." },
+      { "title": "Location", "body": "Placement de locataires premium et recherche de logements avec accompagnement contractuel." },
+      { "title": "Accès sur plan", "body": "Allocations prioritaires et prix de lancement des meilleurs promoteurs." },
+      { "title": "Gestion locative", "body": "Une gestion complète qui protège votre bien et optimise vos revenus." }
+    ]
+  },
+  "team": {
+    "eyebrow": "Direction", "title": "Une équipe expérimentée de cinq membres",
+    "members": [
+      { "name": "Omar Al Mansoori", "role": "Fondateur et Directeur général" },
+      { "name": "Claire Dubois", "role": "Directrice Financement & Crédit" },
+      { "name": "Rajiv Menon", "role": "Directeur des investissements" },
+      { "name": "Layla Haddad", "role": "Directrice commerciale senior" },
+      { "name": "James Whitford", "role": "Responsable Location & Clientèle" }
+    ]
+  },
+  "partners": { "eyebrow": "Ils nous font confiance", "title": "Nos promoteurs et banques partenaires" },
+  "testimonials": {
+    "eyebrow": "Témoignages", "title": "La confiance de clients exigeants du monde entier",
+    "items": [
+      { "quote": "Early Approve a obtenu notre prêt en quelques jours et trouvé la villa idéale sur la Palm. Un professionnalisme total.", "name": "Sarah & Michael T.", "origin": "Londres, Royaume-Uni" },
+      { "quote": "Leurs conseils sur le sur-plan ont généré des rendements exceptionnels. Une équipe qui maîtrise la finance.", "name": "Ahmed K.", "origin": "Riyad, Arabie saoudite" },
+      { "quote": "Fluide, discret et remarquablement bien connecté. Nous avons acheté deux appartements sans jamais être pressés.", "name": "Isabelle M.", "origin": "Paris, France" }
+    ]
+  },
+  "trust": { "rera": "Courtier enregistré RERA", "dld": "Partenaire du Dubai Land Department", "banks": "Plus de 12 banques partenaires", "golden": "Spécialistes Golden Visa", "secure": "Transactions sécurisées et conformes" },
+  "why": {
+    "eyebrow": "Pourquoi Dubaï ?", "title": "Le marché immobilier le plus attractif au monde",
+    "body": "Fiscalité avantageuse, infrastructures de classe mondiale et cadre de vie sûr et cosmopolite font de Dubaï un aimant mondial pour les capitaux et les talents.",
+    "points": [
+      { "title": "0 % d'impôt sur le revenu", "body": "Ni impôt sur le revenu ni impôt sur les plus-values immobilières." },
+      { "title": "Rendements de 6 à 9 %", "body": "Parmi les rendements locatifs bruts les plus élevés au monde." },
+      { "title": "Golden Visa", "body": "Résidence de 10 ans dès 2 M AED d'investissement immobilier." },
+      { "title": "Connectivité mondiale", "body": "Deux tiers de la population mondiale à moins de 8 h de vol." },
+      { "title": "Sécurité et stabilité", "body": "Régulièrement classée parmi les villes les plus sûres." },
+      { "title": "Pleine propriété", "body": "Droits de propriété complets pour les étrangers dans les zones désignées." }
+    ]
+  },
+  "calc": {
+    "eyebrow": "Planifiez sereinement", "title": "Calculateurs financiers",
+    "mortgage": "Calculateur de prêt", "rental": "Calculateur de rendement locatif",
+    "price": "Prix du bien (AED)", "down": "Apport (%)", "rate": "Taux d'intérêt (%)", "years": "Durée (années)",
+    "monthly": "Mensualité estimée", "loan": "Montant du prêt", "totalInterest": "Intérêts totaux",
+    "rent": "Loyer annuel (AED)", "charges": "Charges annuelles (AED)", "other": "Autres coûts annuels (AED)",
+    "gross": "Rendement brut", "net": "Rendement net", "netIncome": "Revenu net annuel", "payback": "Délai de retour", "yrs": "ans",
+    "disclaimer": "Estimations indicatives. Contactez notre équipe financière pour une étude personnalisée."
+  },
+  "faq": {
+    "eyebrow": "Questions", "title": "Questions fréquentes",
+    "items": [
+      { "q": "Les étrangers peuvent-ils acheter à Dubaï ?", "a": "Oui. Les étrangers peuvent acheter en pleine propriété dans les zones désignées comme Downtown, Dubai Marina, Palm Jumeirah et Dubai Hills Estate." },
+      { "q": "Quel apport pour un prêt immobilier ?", "a": "Les non-résidents ont généralement besoin de 40–50 % et les résidents de 20–25 % pour les biens de moins de 5 M AED. Notre équipe confirmera votre éligibilité." },
+      { "q": "Quels sont les frais d'acquisition ?", "a": "Prévoyez environ 7–8 % du prix : 4 % de frais DLD, honoraires d'agence, enregistrement et frais de prêt le cas échéant." },
+      { "q": "Comment fonctionne le Golden Visa ?", "a": "Un investissement immobilier d'au moins 2 M AED peut vous qualifier pour une résidence renouvelable de 10 ans. Nous gérons tout le processus." },
+      { "q": "Accompagnez-vous la location ?", "a": "Oui. Nous trouvons des logements premium, négocions les conditions et gérons l'enregistrement Ejari et les contrats." },
+      { "q": "Puis-je acheter à distance ?", "a": "Absolument. Visites vidéo, documents numériques et procuration pour les clients à l'étranger." }
+    ]
+  },
+  "footer": { "tagline": "Un groupe établi de conseil immobilier et financier à Dubaï, au service de clients internationaux avec intégrité depuis 2009.", "explore": "Explorer", "contact": "Contact", "address": "Business Bay, Dubaï, Émirats arabes unis", "rights": "Tous droits réservés.", "newsletter": "Analyses de marché", "newsletterBody": "Notes trimestrielles sur le marché de Dubaï, envoyées en toute discrétion.", "subscribe": "S'abonner", "subscribed": "Abonné — merci." },
+  "about": { "title": "À propos d'Early Approve", "subtitle": "Un nom établi de l'immobilier et du financement à Dubaï.", "storyTitle": "Notre histoire", "story": "Fondé en 2009, Early Approve Real Estate Group™ a débuté comme cabinet de conseil hypothécaire avant de devenir un groupe immobilier complet. Ce socle financier nous définit toujours : nous approuvons, structurons et sécurisons — avant même de faire visiter un bien. Aujourd'hui, notre équipe dirigeante de cinq membres cumule plus de 75 ans d'expérience en courtage, banque et investissement.", "valuesTitle": "Nos valeurs", "values": [ { "title": "Intégrité", "body": "Des conseils transparents, toujours dans l'intérêt du client." }, { "title": "Expertise", "body": "Une profondeur financière et de marché rare." }, { "title": "Réseau", "body": "Des liens durables avec promoteurs, banques et juristes." } ] },
+  "servicesPage": { "title": "Nos services", "subtitle": "Chaque étape de votre projet immobilier à Dubaï, confiée à des spécialistes." },
+  "propertiesPage": { "title": "Propriétés et projets", "subtitle": "Des résidences sélectionnées dans les quartiers les plus recherchés de Dubaï." },
+  "investment": { "title": "Opportunités d'investissement", "subtitle": "Des opportunités conçues pour le rendement, la croissance et la résidence.", "items": [ { "title": "Lancements sur plan", "yield": "Plus-value projetée 15–25 %", "body": "Accès prioritaire aux prix de lancement avec paiements flexibles après livraison." }, { "title": "Résidences de marque", "yield": "Rendement brut 6–8 %", "body": "Logements avec services hôteliers de grandes marques, idéaux en location courte." }, { "title": "Portefeuilles Golden Visa", "yield": "Dès 2 M AED", "body": "Acquisitions structurées ouvrant droit à une résidence de 10 ans." }, { "title": "Actifs de rendement", "yield": "Rendement net 7–9 %", "body": "Appartements loués générant des revenus dès le premier jour." } ], "cta": "Demander la brochure investissement" },
+  "whyPage": { "title": "Pourquoi investir à Dubaï ?", "subtitle": "Une ville mondiale pensée pour les investisseurs, les familles et les entrepreneurs." },
+  "careers": { "title": "Carrières", "subtitle": "Rejoignez une équipe expérimentée au cœur de l'immobilier à Dubaï.", "openings": "Postes ouverts", "jobs": [ { "title": "Consultant immobilier senior", "type": "Temps plein · Business Bay" }, { "title": "Conseiller en crédit", "type": "Temps plein · Business Bay" }, { "title": "Chargé de marketing", "type": "Temps plein · Hybride" } ], "apply": "Postuler", "formTitle": "Formulaire de candidature", "position": "Poste", "experience": "Années d'expérience", "cv": "URL du CV / LinkedIn", "cover": "Pourquoi Early Approve ?" },
+  "contact": { "title": "Contact", "subtitle": "Échangez avec un conseiller senior — en français, anglais ou arabe.", "formTitle": "Demande personnalisée", "office": "Notre bureau", "hours": "Dim–Ven, 9h00–19h00" },
+  "book": { "title": "Réserver une visite", "subtitle": "Organisez une visite privée, sur place ou en vidéo, à votre convenance.", "property": "Propriété", "date": "Date souhaitée", "time": "Heure souhaitée", "mode": "Type de visite", "inPerson": "Sur place", "videoCall": "Appel vidéo" },
+  "form": { "name": "Nom complet", "email": "E-mail", "phone": "Téléphone", "intent": "Achat ou location ?", "buying": "Achat", "renting": "Location", "budget": "Budget", "location": "Quartier souhaité", "type": "Type de bien", "method": "Moyen de contact préféré", "message": "Message", "select": "Choisir…", "call": "Appel", "whatsapp": "WhatsApp", "emailMethod": "E-mail" },
+  "types": { "apartment": "Appartement", "villa": "Villa", "penthouse": "Penthouse", "townhouse": "Maison de ville" }
+}

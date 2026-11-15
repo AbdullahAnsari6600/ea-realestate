@@ -1,0 +1,98 @@
+{
+  "nav": { "home": "Home", "about": "About Us", "services": "Our Services", "properties": "Properties", "investment": "Investment", "whyDubai": "Why Dubai?", "careers": "Careers", "contact": "Contact Us", "faq": "FAQ", "book": "Book a Viewing", "menu": "Menu" },
+  "common": { "learnMore": "Learn more", "viewDetails": "View details", "viewAll": "View all Available properties", "enquire": "Enquire now", "submit": "Submit", "sending": "Sending…", "from": "From", "beds": "Beds", "baths": "Baths", "sqft": "sq ft", "all": "All", "required": "This field is required", "invalidEmail": "Enter a valid email", "invalidPhone": "Enter a valid phone number", "success": "Thank you — a senior advisor will contact you within one business day.", "whatsapp": "Chat on WhatsApp", "back": "Back to properties", "gallery": "Gallery", "video": "Video preview", "noResults": "No properties match your search. Try widening your filters." },
+  "hero": { "eyebrow": "Dubai · Since 2009", "title": "Exceptional Dubai Property, Expertly Approved", "subtitle": "An established real estate and finance advisory group guiding international buyers, investors and tenants to Dubai's most coveted addresses.", "cta1": "Explore Properties", "cta2": "Book a Private Viewing" },
+  "search": { "intent": "I want to", "buy": "Buy", "rent": "Rent", "location": "Location", "type": "Property type", "budget": "Max budget (AED)", "any": "Any", "button": "Search" },
+  "intro": { "eyebrow": "Early Approve Real Estate Group™", "title": "Fifteen years of trusted counsel in Dubai real estate", "body": "We combine deep market knowledge with in-house financial expertise — from mortgage pre-approval to portfolio structuring — so every client moves forward with clarity and confidence. Our long-standing relationships with Dubai's leading developers, banks and legal partners give our clients privileged access and seamless transactions.", "stat1": "Years in Dubai", "stat2": "Property Opportunities", "stat3": "Client nationalities", "stat4": "Partner developers & banks" },
+  "featured": { "eyebrow": "Curated Selection", "title": "Featured Properties" },
+  "services": {
+    "eyebrow": "What We Do", "title": "Full-spectrum real estate & finance services",
+    "items": [
+      { "title": "Property Sales", "body": "Discreet representation for buyers and sellers across Dubai's prime communities." },
+      { "title": "Mortgage Advisory", "body": "Fast pre-approvals and competitive rates through our long-standing banking partners." },
+      { "title": "Investment Strategy", "body": "Data-led portfolio planning for yield, capital growth and Golden Visa eligibility." },
+      { "title": "Leasing & Rentals", "body": "Premium tenant placement and rental search with full contract support." },
+      { "title": "Off-Plan Access", "body": "Priority allocations and launch pricing from Dubai's leading developers." },
+      { "title": "Property Management", "body": "End-to-end management that protects your asset and maximises returns." }
+    ]
+  },
+ "team": {
+  "eyebrow": "Leadership",
+  "title": "Expertise You Can Trust",
+  "members": [
+    {
+      "name": "Komal",
+      "role": "Digital Marketing",
+      "image": "/team/member4.png"
+    },
+    {
+      "name": "Rajiv Ranjan",
+      "role": "Manager",
+      "image": "/team/member2.png"
+    },
+    {
+      "name": "Mathew",
+      "role": "Real Estate Agent",
+      "image": "/team/member3.png"
+    },
+    {
+      "name": "Irakoze",
+      "role": "Real estate Agent",
+      "image": "/team/member5.png"
+    }
+  ]
+},
+  "partners": { "eyebrow": "Trusted By", "title": "Our partners" },
+  "testimonials": {
+    "eyebrow": "Client Voices", "title": "Trusted by discerning clients worldwide",
+    "items": [
+      { "quote": "Early Approve secured our mortgage approval in days and found us the perfect villa on the Palm. Truly professional from start to finish.", "name": "Sarah & Michael T.", "origin": "Abu Dhabi, UAE" },
+      { "quote": "Their investment advice on off-plan units has delivered exceptional returns. A team that genuinely understands finance.", "name": "Ahmed K.", "origin": "Abu Dhabi, UAE" },
+      { "quote": "Seamless, discreet and remarkably well connected. We purchased two apartments without ever feeling rushed.", "name": "Isabelle M.", "origin": "Dubai, UAE" }
+    ]
+  },
+  "trust": { "rera": "Dubai Property Market", "dld": "Dubai Real Estate Guidance", "banks": "Mortgage Advisory Support", "golden": "Golden Visa Guidance", "secure": "Transparent Guidance" },
+  "why": {
+    "eyebrow": "Why Dubai?", "title": "The world's most compelling property market",
+    "body": "Tax efficiency, world-class infrastructure and a safe, cosmopolitan lifestyle make Dubai a global magnet for capital and talent.",
+    "points": [
+      { "title": "0% Income Tax", "body": "No personal income tax and no capital gains tax on property." },
+      { "title": "6–9% Rental Yields", "body": "Among the highest gross rental yields of any global city." },
+      { "title": "Golden Visa", "body": "10-year residency for property investments from AED 2M." },
+      { "title": "Global Connectivity", "body": "Two-thirds of the world's population within an 8-hour flight." },
+      { "title": "Safety & Stability", "body": "Consistently ranked among the safest cities worldwide." },
+      { "title": "Freehold Ownership", "body": "Full ownership rights for foreign nationals in designated areas." }
+    ]
+  },
+  "calc": {
+    "eyebrow": "Plan With Confidence", "title": "Financial calculators",
+    "mortgage": "Mortgage Calculator", "rental": "Rental Investment Calculator",
+    "price": "Property price (AED)", "down": "Down payment (%)", "rate": "Interest rate (%)", "years": "Loan term (years)",
+    "monthly": "Estimated monthly payment", "loan": "Loan amount", "totalInterest": "Total interest",
+    "rent": "Annual rent (AED)", "charges": "Annual service charges (AED)", "other": "Other annual costs (AED)",
+    "gross": "Gross yield", "net": "Net yield", "netIncome": "Net annual income", "payback": "Payback period", "yrs": "years",
+    "disclaimer": "Illustrative estimates only. Speak to our finance team for a personalised assessment."
+  },
+  "faq": {
+    "eyebrow": "Questions", "title": "Frequently asked questions",
+    "items": [
+      { "q": "Can foreigners buy property in Dubai?", "a": "Yes. Foreign nationals can buy freehold property in designated areas such as Downtown, Dubai Marina, Palm Jumeirah and Dubai Hills Estate." },
+      { "q": "How much deposit do I need for a mortgage?", "a": "Non-residents typically need 40–50% and residents 20–25% for properties under AED 5M. Our finance team will confirm your exact eligibility." },
+      { "q": "What are the purchase costs?", "a": "Budget around 7–8% of the price: 4% DLD fee, agency fee, registration and mortgage-related fees where applicable." },
+      { "q": "How does the Golden Visa work?", "a": "Investing AED 2M or more in property can qualify you for a renewable 10-year UAE residency visa. We manage the whole process." },
+      { "q": "Do you help with renting?", "a": "Yes. We source premium rental homes, negotiate terms and handle Ejari registration and contracts." },
+      { "q": "Can I buy remotely?", "a": "Absolutely. We offer video viewings, digital documentation and power-of-attorney support for overseas clients." }
+    ]
+  },
+  "footer": { "tagline": "An established Dubai real estate and finance advisory group, serving international clients with integrity since 2009.", "explore": "Explore", "contact": "Contact", "address": "Salah Ad Din, Deira, Dubai.", "rights": "All rights reserved.", "newsletter": "Market insights", "newsletterBody": "Quarterly Dubai market briefings, sent discreetly.", "subscribe": "Subscribe", "subscribed": "Subscribed — thank you." },
+  "about": { "title": "About Early Approve", "subtitle": "An established name in Dubai real estate and property finance.", "storyTitle": "Our story", "story": "Founded in 2009, Early Approve Real Estate Group™ began as a mortgage advisory and grew into a full-service real estate group. That financial foundation still defines us: we approve, structure and secure — before we ever show a property. Today our five-member leadership team brings more than 75 combined years of experience across brokerage, banking and investment.", "valuesTitle": "Our values", "values": [ { "title": "Integrity", "body": "Transparent advice, always in the client's interest." }, { "title": "Expertise", "body": "Financial and market depth few agencies can match." }, { "title": "Connection", "body": "Long-standing ties with developers, banks and legal partners." } ] },
+  "servicesPage": { "title": "Our Services", "subtitle": "Every stage of your Dubai property journey, handled by specialists." },
+  "propertiesPage": { "title": "Properties & Projects", "subtitle": "Hand-selected residences across Dubai's most desirable communities." },
+  "investment": { "title": "Investment Opportunities", "subtitle": "Curated opportunities engineered for yield, growth and residency.", "items": [ { "title": "Off-Plan Launches", "yield": "15–25% projected appreciation", "body": "Priority access to launch pricing with flexible post-handover payment plans." }, { "title": "Branded Residences", "yield": "6–8% gross yield", "body": "Hotel-serviced homes by globally recognised brands, ideal for short-term letting." }, { "title": "Golden Visa Portfolios", "yield": "AED 2M+ entry", "body": "Structured purchases that qualify investors for 10-year UAE residency." }, { "title": "Ready Income Assets", "yield": "7–9% net yield", "body": "Tenanted apartments delivering income from day one." } ], "cta": "Request the investment brochure" },
+  "whyPage": { "title": "Why Invest in Dubai?", "subtitle": "A global city built for investors, families and entrepreneurs." },
+  "careers": { "title": "Careers", "subtitle": "Join an experienced team at the heart of Dubai real estate.", "openings": "Current openings", "jobs": [ { "title": "Senior Property Consultant", "type": "Full-time · Business Bay" }, { "title": "Mortgage Advisor", "type": "Full-time · Business Bay" }, { "title": "Marketing Executive", "type": "Full-time · Hybrid" } ], "apply": "Apply now", "formTitle": "Application form", "position": "Position", "experience": "Years of experience", "cv": "CV / LinkedIn URL", "cover": "Why Early Approve?" },
+  "contact": { "title": "Contact Us", "subtitle": "Speak with a senior advisor — in English, Arabic or French.", "formTitle": "Custom enquiry", "office": "Our office", "hours": "Sun–Fri, 10:00–18:00" },
+  "book": { "title": "Book a Viewing", "subtitle": "Arrange a private, in-person or video viewing at your convenience.", "property": "Property", "date": "Preferred date", "time": "Preferred time", "mode": "Viewing type", "inPerson": "In person", "videoCall": "Video call" },
+  "form": { "name": "Full name", "email": "Email", "phone": "Phone", "intent": "Buying or renting?", "buying": "Buying", "renting": "Renting", "budget": "Budget", "location": "Preferred location", "type": "Property type", "method": "Preferred contact method", "message": "Message", "select": "Select…", "call": "Phone call", "whatsapp": "WhatsApp", "emailMethod": "Email" },
+  "types": { "apartment": "Apartment", "villa": "Villa", "penthouse": "Penthouse", "townhouse": "Townhouse" }
+}
